@@ -1,0 +1,2 @@
+python-telehram-bot
+adafruit_IO
